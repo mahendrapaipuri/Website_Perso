@@ -33,6 +33,7 @@ education:
   courses:
   - course: PhD in Computational Engineering
     institution: Instituto Superior Técnico, Lisbon and Universitat Politècnica de Catalunya, Barcelona
+    institution: Instituto Superior Técnico, Lisbon and Universitat Politècnica de Catalunya, Barcelona
     year: 2018
   - course: MSc in Computational Mechanics
     institution: Universitat Politècnica de Catalunya, Barcelona and Swansea University, Swansea
