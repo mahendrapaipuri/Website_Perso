@@ -57,7 +57,7 @@ social:
   link: https://www.researchgate.net/profile/Mahendra_Paipuri
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/mahendrapaipuri
+  link: https://www.linkedin.com/in/mahendrapaipuri/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -69,11 +69,9 @@ email: "mahendra.paipuri@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Post Doctoral Researcher at Laboratoire Ingénierie Circulation Transports (LICIT) in Université Gustave Eiffel, Lyon.  My research is focused broadly on the numerical solution of partial differential equations with emphasis on discontinuous Galerkin methods, high-order numerical schemes, hyperbolic conservation equations, traffic flow modeling. Besides, I have been working on \textbf{data analysis} in my current position. I wrote my thesis at Departament of Civil Engineering, Architecture and Georesources (DECivil) at Instituto Superior Técnico in Lisbon and Laboratori de Càlcul Numèric (LaCaN) at the Universitat Politècnica de Catalunya in Barcelona.
