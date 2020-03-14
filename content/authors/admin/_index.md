@@ -33,7 +33,6 @@ education:
   courses:
   - course: PhD in Computational Engineering
     institution: Instituto Superior Técnico, Lisbon and Universitat Politècnica de Catalunya, Barcelona
-    institution: Instituto Superior Técnico, Lisbon and Universitat Politècnica de Catalunya, Barcelona
     year: 2018
   - course: MSc in Computational Mechanics
     institution: Universitat Politècnica de Catalunya, Barcelona and Swansea University, Swansea
@@ -75,4 +74,4 @@ email: "mahendra.paipuri@gmail.com"
 # - Visitors
 ---
 
-I am a Post Doctoral Researcher at Laboratoire Ingénierie Circulation Transports (LICIT) in Université Gustave Eiffel, Lyon.  My research is focused broadly on the numerical solution of partial differential equations with emphasis on discontinuous Galerkin methods, high-order numerical schemes, hyperbolic conservation equations, traffic flow modeling. Besides, I have been working on \textbf{data analysis} in my current position. I wrote my thesis at Departament of Civil Engineering, Architecture and Georesources (DECivil) at Instituto Superior Técnico in Lisbon and Laboratori de Càlcul Numèric (LaCaN) at the Universitat Politècnica de Catalunya in Barcelona.
+I am a Post Doctoral Researcher at Laboratoire Ingénierie Circulation Transports (LICIT) in Université Gustave Eiffel, Lyon.  My research is focused broadly on the numerical solution of partial differential equations with emphasis on **discontinuous Galerkin methods**, **high-order numerical schemes**, **hyperbolic conservation equations**, **traffic flow modeling**. Besides, I have been working on **data analysis** in my current position. I wrote my thesis at Departament of Civil Engineering, Architecture and Georesources (DECivil) at Instituto Superior Técnico in Lisbon and Laboratori de Càlcul Numèric (LaCaN) at the Universitat Politècnica de Catalunya in Barcelona.
