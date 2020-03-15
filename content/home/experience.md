@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "January 2, 2006"
+date_format = "Jan 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -22,36 +22,8 @@ date_format = "January 2, 2006"
   company = "Université Gustave Eiffel"
   company_url = "https://www.univ-gustave-eiffel.fr/"
   location = "Lyon"
-  date_start = "January 2, 2006"
+  date_start = "11/01/2017"
   date_end = ""
   description = """Part of the ERC project Multiscale and Multimodal Traffic Modelling Approach for Sustainable Management of Urban Mobility (MAGnUM). Primary resposnbility is to develop the multi-modal macroscopic traffic simulators based on Macroscopic Fundamental Diagram (MFD)."""
-
-[[experience]]
-  title = "Doctoral Researcher"
-  company = "Instituto Superior Técnico and Universitat Politècnica de Catalunya"
-  company_url = ""
-  location = "Lisbon and Barcelona"
-  date_start = "January 2, 2006"
-  date_end = "January 2, 2006"
-  description = """Primary contributions include proposing a novel coupling formulation between Continuous (CG) and Hybridizable discontinuous Galerkin (HDG) methods for thermo-fluid multi-physics problem. Developed an in-house **arbitrary high-order** solver in FORTRAN."""
-  
-[[experience]]
-  title = "Research Intern"
-  company = "Compass Ingeniería y Sistemas"
-  company_url = "https://www.compassis.com/compass"
-  location = "Barcelona"
-  date_start = "January 2, 2006"
-  date_end = "January 2, 2006"
-  description = """The primary objective of the internship was to validate the in-house software SeaFEM, which is based on Finite Element Methods (FEM) to analyze the waves and currents in off-shore installations. The validation was done by comparing the Response Amplitude Operators (RAO) in the pitch motion of an off-shore wind turbine with the available data."""
-  
-[[experience]]
-  title = "Research Assistant"
-  company = "Universität Stuttgart"
-  company_url = "https://www.uni-stuttgart.de/"
-  location = "Stuttgart"
-  date_start = "January 2, 2006"
-  date_end = "January 2, 2006"
-  description = """A sensitivity analysis of the design variables of the Inertial Electrostatic Confinement (IEC)
-reactor was performed using metaheuristic optimization technique Simulated Annealing (SA)."""  
 
 +++
