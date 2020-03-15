@@ -2,7 +2,7 @@
 abstract = "Bi-modal or 3D-MFD relates the accumulation of cars, buses to total production at the network level. The current work provides a detailed discussion of extended MFD-based models namely, accumulation-based and trip-based models that accounts for bi-modal flows through 3D-MFD. In addition, delay accumulation-based models, also known as exit-flow models in classical traffic flow theory, are revisited. Fundamental modeling differences between different MFD-based models are illustrated using a benchmark test case. A new FIFO-based entry flow function is also proposed in order to address the inconsistencies of the conventional entry flow function in the context of the 3D-MFD case. A novel weak internal FIFO discipline is proposed to circumnavigate the violation of internal FIFO order during network unloading in the delay accumulation-based model. MFD-based models are verified using the solutions of micro-simulations performed on an idealized grid network. The importance of separating the 3D-MFD into partial car and bus 3D-MFDs is highlighted. Moreover, it is also shown that partial bus 3D-MFD should be further split when dedicated bus lanes are present in the network to account for unequal mean speeds between different bus lanes."
 abstract_short = ""
 authors = ["Mahendra Paipuri", "Ludovic Leclercq"]
-date = ""
+date = "2020-03-01"
 image_preview = ""
 math = true
 publication_types = ["2"]
