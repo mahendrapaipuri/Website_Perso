@@ -14,9 +14,9 @@ url_code = "https://github.com/qingqu06/convolutional_pr"
 url_dataset = ""
 url_pdf = "https://arxiv.org/pdf/1712.00716.pdf"
 url_project = ""
-url_slides = "pdf/cpr.pdf"
+url_slides = ""
 url_video = ""
-url_poster = "pdf/poster-cpr.pdf"
+url_poster = ""
 url_preprint = "https://arxiv.org/abs/1712.00716"
 
 [[url_custom]]
@@ -26,6 +26,6 @@ url = "https://papers.nips.cc/paper/7189-convolutional-phase-retrieval"
 
 [[url_custom]]
 name = "Bibtex"
-url = "ref/qu2019convolutional.bib"
+url = ""
 
 +++
