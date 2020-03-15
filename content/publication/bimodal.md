@@ -21,6 +21,6 @@ url_preprint = ""
 
 [[url_custom]]
 name = "Bibtex"
-url = ""
+url = "ref/bimodal.bib"
 
 +++
