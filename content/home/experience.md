@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Université Gustave Eiffel"
   company_url = "https://www.univ-gustave-eiffel.fr/"
   location = "Lyon"
-  date_start = "11/01/2017"
+  date_start = "2017-11-01"
   date_end = ""
   description = """Part of the ERC project Multiscale and Multimodal Traffic Modelling Approach for Sustainable Management of Urban Mobility (MAGnUM). Primary resposnbility is to develop the multi-modal macroscopic traffic simulators based on Macroscopic Fundamental Diagram (MFD)."""
 
