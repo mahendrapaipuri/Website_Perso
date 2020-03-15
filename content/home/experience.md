@@ -18,27 +18,40 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Post Doctoral Researcher"
+  company = "Université Gustave Eiffel"
+  company_url = "https://www.univ-gustave-eiffel.fr/"
+  location = "Lyon"
+  date_start = "01/11/2017"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """Part of the ERC project Multiscale and Multimodal Traffic Modelling Approach for Sustainable Management of Urban Mobility (MAGnUM). Primary resposnbility is to develop the multi-modal macroscopic traffic simulators based on Macroscopic Fundamental Diagram (MFD)."""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Doctoral Researcher"
+  company = "Instituto Superior Técnico and Universitat Politècnica de Catalunya"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Lisbon and Barcelona"
+  date_start = "01/09/2014"
+  date_end = "31/10/2017"
+  description = """Primary contributions include proposing a novel coupling formulation between Continuous (CG) and Hybridizable discontinuous Galerkin (HDG) methods for thermo-fluid multi-physics problem. Developed an in-house **arbitrary high-order** solver in FORTRAN."""
+  
+[[experience]]
+  title = "Research Intern"
+  company = "Compass Ingeniería y Sistemas"
+  company_url = "https://www.compassis.com/compass"
+  location = "Barcelona"
+  date_start = "01/01/2013"
+  date_end = "31/07/2013"
+  description = """The primary objective of the internship was to validate the in-house software SeaFEM, which is based on Finite Element Methods (FEM) to analyze the waves and currents in off-shore installations. The validation was done by comparing the Response Amplitude Operators (RAO) in the pitch motion of an off-shore wind turbine with the available data."""
+  
+[[experience]]
+  title = "Research Assistant"
+  company = "Universität Stuttgart"
+  company_url = "https://www.uni-stuttgart.de/"
+  location = "Stuttgart"
+  date_start = "01/05/2011"
+  date_end = "15/07/2011"
+  description = """A sensitivity analysis of the design variables of the Inertial Electrostatic Confinement (IEC)
+reactor was performed using metaheuristic optimization technique Simulated Annealing (SA)."""  
 
 +++
