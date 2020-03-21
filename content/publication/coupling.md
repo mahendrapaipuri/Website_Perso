@@ -2,7 +2,7 @@
 title: "Coupling of continuous and hybridizable discontinuous Galerkin methods for conjugate heat transfer problem"
 authors: 
 - Mahendra Paipuri
-- Sonia Fernández-Méndez
+- Sonia Fernández-Méndez
 - Carlos Tiago
 date: "2018-07-05T00:00:00Z"
 doi: "https://doi.org/10.1007/s10915-018-0769-8"

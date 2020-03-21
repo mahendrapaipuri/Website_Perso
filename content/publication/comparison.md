@@ -3,7 +3,7 @@ title: "Comparison of high-order continuous and hybridizable discontinuous Galer
 authors: 
 - Mahendra Paipuri
 - Carlos Tiago
-- Sonia Fernández-Méndez
+- Sonia Fernández-Méndez
 date: "2018-05-26T00:00:00Z"
 doi: "https://doi.org/10.1016/j.matcom.2018.05.012"
 

@@ -2,7 +2,7 @@
 title: "Numerical simulation of GFRP models with high-order continuous and hybridizable discontinuous Galerkin methods and experimental validation"
 authors: 
 - Mahendra Paipuri
-- Sonia Fernández-Méndez
+- Sonia Fernández-Méndez
 - Carlos Tiago
 date: "2020-03-21T00:00:00Z"
 doi: ""

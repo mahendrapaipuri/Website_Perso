@@ -1,5 +1,5 @@
 ---
-title: "Bi$-$modal Macroscopic Traffic Dynamics in a Single Region"
+title: "Bi$-$modal Macroscopic Traffic Dynamics in a Single Region"
 authors: 
 - Mahendra Paipuri
 - Ludovic Leclercq
