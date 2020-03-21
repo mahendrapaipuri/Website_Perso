@@ -1,8 +1,8 @@
 ---
-title: "Comparison and coupling of continuous and hybridizable discontinuous Galerkin methods$:$ Application to multi-physics problem"
+title: "Numerical Modelling of Membrane Filtration using Lattice Boltzmann and Finite Volume Methods"
 authors: 
 - Mahendra Paipuri
-date: "2018-03-21T00:00:00Z"
+date: "2014-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,17 +18,10 @@ publication_types: ["7"]
 publication: ""
 publication_short: ""
 
-abstract: This thesis proposes a coupled continuous and hybridizable discontinuous Galerkin formulation to solve conjugate heat transfer problems. This model is then used to find the thermal response of Glass Fiber Reinforced Polymer (GFRP) tubular cross-section under fire. 
-
-The first step of this thesis is to compare the computational efficiency of high-order Continuous Galerkin (CG) and Hybridizable Discontinuous Galerkin (HDG) methods for incompressible fluid flow problems in low Reynolds number regimes. Only 2-D examples and direct solvers are considered in the present work. A thoroughly comparison in terms of CPU time and accuracy for both discretization methods is made under the same platform. Various results presented suggests that HDG can be more efficient than CG when the CPU time, for a given degree, is considered. The stability of HDG and CG is studied using a manufactured solution that produces a sharp boundary layer, confirming that HDG provides smooth converged solutions in the presence of sharp fronts whereas, CG failed to converge due to the presence of numerical oscillations. %Backward Differentiation Formulae (BDF) schemes are used to solve the unsteady Navier--Stokes equations and an adaptive time stepping scheme is proposed.   
-
-Following, the solution of the coupled Navier--Stokes/convection-diffusion problem, using Boussinesq approximation, is formulated within the HDG framework and analysed using numerical experiments and benchmark problems. A coupling strategy between HDG and CG methods is proposed in the framework of second-order elliptic operators. The coupled formulation is implemented and its convergence properties are established numerically by using manufactured solutions.  Finally, the proposed coupled formulation between HDG and CG for heat equation is combined with the coupled Navier--Stokes/convection diffusion equations to formulate a new CG-HDG model for solving conjugate heat transfer problems. Benchmark examples are solved using the proposed model and validated with literature values.
-
-The final part of the thesis applies the proposed CG-HDG coupled formulation to predict the thermal response of the GFRP tubular cross-section. The radiosity equation that governs the internal radiation is added to the CG-HDG coupled model. Estimates of the discretization errors are computed in order to establish the confidence intervals for quantities of interest. Results with the geometry having curved corners in the cavity are presented and shown to be within the
-estimated uncertainty intervals. CPU times for the linear solver suggests that the proposed CG-HDG model is more efficient than CG-CG model in all the cases considered. 
+abstract: The importance of simulations in membrane filtration is discussed. Various models in the literature to simulate different phenomena in membrane filtration like cake formation, osmotic pressure and rejection of salts are briefly reviewed. The origin of Lattice Boltzmann methods from kinetic theory is discussed along with its implementation details. Implementing finite volume scheme to solve convection diffusion equation is discussed in detail along with different differencing schemes used to discretize convective terms on the faces of control volume. The idea of coupling both fluid and solute particles to simulate the membrane filtration process is discussed. Different approaches in implementing coupling between LB-LB and LB-FV for solving fluid and solute particle respectively is discussed. DSPM-DE model is briefly discussed in the context of salt rejection estimation for nano-filtration membranes. Concentration polarisation is taken into account in the rejection modelling by coupling DSPM-DE with solute distribution over the membrane surface. Finally, results of various models are presented and compared to experimental data wherever appropriate.
 
 # Summary. An optional shortened abstract.
-summary: The thesis compares CG and HDG methods for computational efficiency and stability for incompressible fluid flows. Following, a coupling strategy is proposed between CG and HDG methods for heat equation. The final part deals with the validation of proposed CG-HDG formulation for coupled Navier-Stokes convection-diffusion radiosity heat equations with the experimental data of GFRP tubular cross section subjected to fire.
+summary: The thesis proposes two coupled formulations namely, LB-LB and LB-FV for solving fluid and solute particle, respectively in the context of nano-filtration process.
 
 tags:
 - Source Themes
@@ -37,12 +30,12 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'pdf/ThesisPhD.pdf'
+url_pdf: 'pdf/ThesisMaster.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'pdf/PhD.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 url_preprint: ''
