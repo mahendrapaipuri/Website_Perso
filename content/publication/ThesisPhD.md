@@ -15,8 +15,8 @@ doi: ""
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "*Instituto Superior Técnico* and *Universitat Politecnica de Catalunya*"
+publication_short: "*Instituto Superior Técnico* and *Universitat Politecnica de Catalunya*"
 
 abstract: This thesis proposes a coupled continuous and hybridizable discontinuous Galerkin formulation to solve conjugate heat transfer problems. This model is then used to find the thermal response of Glass Fiber Reinforced Polymer (GFRP) tubular cross-section under fire. The first step of this thesis is to compare the computational efficiency of high-order Continuous Galerkin (CG) and Hybridizable Discontinuous Galerkin (HDG) methods for incompressible fluid flow problems in low Reynolds number regimes. Only 2-D examples and direct solvers are considered in the present work. A thoroughly comparison in terms of CPU time and accuracy for both discretization methods is made under the same platform. Various results presented suggests that HDG can be more efficient than CG when the CPU time, for a given degree, is considered. The stability of HDG and CG is studied using a manufactured solution that produces a sharp boundary layer, confirming that HDG provides smooth converged solutions in the presence of sharp fronts whereas, CG failed to converge due to the presence of numerical oscillations. %Backward Differentiation Formulae (BDF) schemes are used to solve the unsteady Navier--Stokes equations and an adaptive time stepping scheme is proposed. Following, the solution of the coupled Navier--Stokes/convection-diffusion problem, using Boussinesq approximation, is formulated within the HDG framework and analysed using numerical experiments and benchmark problems. A coupling strategy between HDG and CG methods is proposed in the framework of second-order elliptic operators. The coupled formulation is implemented and its convergence properties are established numerically by using manufactured solutions.  Finally, the proposed coupled formulation between HDG and CG for heat equation is combined with the coupled Navier--Stokes/convection diffusion equations to formulate a new CG-HDG model for solving conjugate heat transfer problems. Benchmark examples are solved using the proposed model and validated with literature values. The final part of the thesis applies the proposed CG-HDG coupled formulation to predict the thermal response of the GFRP tubular cross-section. The radiosity equation that governs the internal radiation is added to the CG-HDG coupled model. Estimates of the discretization errors are computed in order to establish the confidence intervals for quantities of interest. Results with the geometry having curved corners in the cavity are presented and shown to be within the estimated uncertainty intervals. CPU times for the linear solver suggests that the proposed CG-HDG model is more efficient than CG-CG model in all the cases considered. 
 
@@ -25,7 +25,7 @@ summary: The thesis compares CG and HDG methods for computational efficiency and
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""

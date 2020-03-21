@@ -15,8 +15,8 @@ doi: ""
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "*Swansea University*"
+publication_short: "*Swansea University*"
 
 abstract: The importance of simulations in membrane filtration is discussed. Various models in the literature to simulate different phenomena in membrane filtration like cake formation, osmotic pressure and rejection of salts are briefly reviewed. The origin of Lattice Boltzmann methods from kinetic theory is discussed along with its implementation details. Implementing finite volume scheme to solve convection diffusion equation is discussed in detail along with different differencing schemes used to discretize convective terms on the faces of control volume. The idea of coupling both fluid and solute particles to simulate the membrane filtration process is discussed. Different approaches in implementing coupling between LB-LB and LB-FV for solving fluid and solute particle respectively is discussed. DSPM-DE model is briefly discussed in the context of salt rejection estimation for nano-filtration membranes. Concentration polarisation is taken into account in the rejection modelling by coupling DSPM-DE with solute distribution over the membrane surface. Finally, results of various models are presented and compared to experimental data wherever appropriate.
 
@@ -25,7 +25,7 @@ summary: The thesis proposes two coupled formulations namely, LB-LB and LB-FV fo
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
