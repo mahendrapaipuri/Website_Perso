@@ -7,7 +7,7 @@ authors:
 - Jean Krug
 - Mahendra Paipuri
 date: "2020-03-15T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1287/trsc.2019.0908"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: https://pubsonline.informs.org/doi/10.1287/trsc.2019.0908
 url_code: ''
 url_dataset: ''
 url_poster: ''
