@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: https://pubsonline.informs.org/doi/10.1287/trsc.2019.0908
 url_code: ''
 url_dataset: ''
 url_poster: ''
