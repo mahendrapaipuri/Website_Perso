@@ -1,5 +1,5 @@
 ---
-title: "Calibration and validation of multi-reservoir MFD models: A case study in Lyon"
+title: "Bi-modal Macroscopic Trac Dynamics in a Single Region"
 authors: 
 - Mahendra Paipuri
 - Ludovic Leclercq
@@ -26,7 +26,7 @@ summary: The paper presents theoretical framework of multi-modal MFD-based model
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""

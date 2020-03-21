@@ -7,7 +7,7 @@ authors:
 - Jean Krug
 - Mahendra Paipuri
 date: "2020-03-15T00:00:00Z"
-doi: "https://doi.org/10.1287/trsc.2019.0908"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -19,8 +19,8 @@ doi: "https://doi.org/10.1287/trsc.2019.0908"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Transportation Research Part B: Methodological"
-publication_short: "Transportation Research Part B: Methodological"
+publication: "*Transportation Research Part B: Methodological* (Accepted)"
+publication_short: "*Transportation Research Part B: Methodological*"
 
 abstract: Aggregated traffic flow models based on the Macroscopic Fundamental Diagram (MFD), also known as multireservoir or multi-region MFD models, have been developed for more than a decade for various applications. While being very appealing for simulating traffic dynamics at a city level, the outputs of these models were rarely confronted with real data measurements. Thus, this paper focuses on calibration and validation of an MFD simulation for a city partitioned into multiple reservoirs. The traffic predictions from the MFD simulation (total accumulation and mean speed) are compared with real data from loop and probe sensors. The questions addressed in this study include the city partitioning, the MFD and average trip length estimation, and the path flow distribution among reservoirs. This study is carried on the network of Lyon, France, composed by around 27,000 links that extend over an urban area of 80 km$^2$. Two different clustering cases are defined and compared, with respectively 5 and 10 reservoirs. Our results notably show that the proper estimation of three elements is critical for accurate traffic state prediction$:$ (i) the total “active” network length of each reservoir, (ii) the regional trip lengths in the reservoirs, and (iii) the path flow distribution at the regional network level. While the network equilibrium found in the 5-reservoir clustering can be roughly approximated with Wardrop’s principle, the 10-reservoir case is more complex and requires to design ad-hoc optimization process to derive regional path flow distributions that fit the data. The global equilibrium found in this latter case turns out to be hardly predictable with any traffic equilibrium principle. 
 
@@ -29,12 +29,12 @@ summary: The paper presents the first validation study using multi-reservoir MFD
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://pubsonline.informs.org/doi/10.1287/trsc.2019.0908
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
