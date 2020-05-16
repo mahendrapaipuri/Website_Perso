@@ -26,7 +26,7 @@ summary: The paper validates the MFD-based framework using empirical data from Z
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""

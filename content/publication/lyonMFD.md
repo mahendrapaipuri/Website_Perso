@@ -29,7 +29,7 @@ summary: The paper presents the first validation study using multi-reservoir MFD
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
