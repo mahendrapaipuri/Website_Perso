@@ -16,7 +16,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Frontiers in Future Transportation*, (Under Review)"
+publication: "*Frontiers in Future Transportation*, 1, 1, August 2020"
 publication_short: "*Frontiers in Future Transportation*"
 
 abstract: This work attempts to validate the dynamic outputs of bi-modal MFD-based models, also referred to as 3D-MFD models, using empirical data. A previous study (Loder et al.) gathered cars and public transport vehicles data in two different regions of Zurich city and showed that a well-defined 3D-MFD exists by proposing a functional form relating overall travel production to the accumulations of cars and public transport vehicles. This work aims to go one step further with the same data set to investigate if 3D-MFD embedded in dynamic conservation laws can predict the time evolution of the network traffic states. Two different approaches to estimate the inflow demand using outflow and mean speed evolutions are presented. The mean trip lengths are estimated using a network exploration technique. Accumulation-based, trip-based and accumulation-based with outflow delay models are considered in the validation study. It is concluded that a single bi-linear 3D-MFD fit is insufficient to predict the evolution of traffic states accurately. The current work proposes multi bi-linear 3D-MFD fits segregated depending on the time of the day. The proposed approach significantly improved the simulation results, where good correspondence with empirical data is obtained. Finally, it is shown that in multi-modal networks like the city of Zurich, it is essential to consider the effect of public transport vehicles, when considering aggregated simulations. It is also shown that using a 2D-MFD by treating public transport vehicles and private cars alike, result in poor accordance with the field observations.
@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://www.frontiersin.org/articles/10.3389/ffutr.2020.00001/full'
 url_code: ''
 url_dataset: ''
 url_poster: ''

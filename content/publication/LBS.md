@@ -1,5 +1,5 @@
 ---
-title: "Calibration of Multi-region MFD models using Mobile Phone Data"
+title: "Estimating MFDs, trip lengths and path flow distributions in a multi-region setting using mobile phone data"
 authors: 
 - Mahendra Paipuri
 - Yanyan Xu
@@ -18,7 +18,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Transportation Research Part C: Emerging Technologies* (Under Review)"
+publication: "*Transportation Research Part C: Emerging Technologies* 118, 102709, September 2020"
 publication_short: "*Transportation Research Part C: Emerging Technologies*"
 
 abstract: The present work proposes a framework to calibrate MFD models using mobile phone data. The three major components to calibrate in the present context include MFD shape, regional trip lengths and path flow distribution. A trip enrichment scheme based on the map matching process is proposed for the trips that have sparser records. Time dependent penetration rates are estimated by fusing the OD matrix and the Loop Detector Data (LDD). Two different types of penetration rates of vehicles are proposed based on the OD flow and the trips starting within an origin, respectively. The estimated MFDs based on two types of penetration rates are stable with very low scatter. In the following step, macro-paths and their corresponding trip lengths are estimated. Dynamic evolution of trip lengths is demonstrated using the present data, which is otherwise very difficult to capture with other types of data sources. Another important component calibrated is the time dependent path flow distribution between the different macro-paths for a given OD pair. The manuscript is concluded by presenting the time evolution of the User Equilibrium (UE) gap for different macroscopic OD pairs.
@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0968090X20306240'
 url_code: ''
 url_dataset: ''
 url_poster: 'pdf/LBSPoster.pdf'
