@@ -21,12 +21,13 @@ organizations:
 bio: My research interests include computational fluid dynamics, traffic flow modeling, data analysis.
 
 interests:
-- Discontinuous Galerkin Methods
-- High-order Approximations
+- Numerical Methods
+- Galerkin Approximations
+- High-order Schemes
 - Multi-physics Problems
 - Hyperbolic Systems of Conservation Laws
+- Scientific Computing
 - Traffic Flow Theory
-- Macroscopic Traffic Flow Models
 - Data Analysis
 
 education:
