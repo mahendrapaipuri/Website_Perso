@@ -4,8 +4,8 @@ authors:
 - Guilhem Mariotte
 - Mahendra Paipuri
 - Ludovic Leclercq
-date: "2020-03-20T00:00:00Z"
-doi: ""
+date: "2020-11-05T00:00:00Z"
+doi: "https://doi.org/10.3389/ffutr.2020.604088"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -14,13 +14,13 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Frontiers in Future Transportation"
+publication_short: "Frontiers in Future Transportation"
 
-abstract: ""
+abstract: "Flow limitation due to spillbacks between reservoirs in Macroscopic Fundamental Diagram (MFD) based approaches is still not fully understood. In a previous paper, we analyzed flow exchange properties and formulated new merging and diverging models, different from those previously proposed in the literature. However, both the latter and our approach received very little support from aggregated link-scale data (real or simulated). The contribution of this study is to validate different MFD-based modeling approaches vs. microscopic simulation using an artificial Manhattan network and then compare the microsimulation results with the MFD-based ones. These comparisons first allow us to investigate and calibrate the network entry capacity, known as the entry supply function. Besides demand pro-rata and endogenous merging scheme, entry flow based on First-In-First-Out rule is also analyzed. Finally, we also show that the outflow diverging scheme is critical to reproduce microsimulation results well regarding the network exit and demonstrate the1 limitations of widely used approach of a decreasing outflow demand with independent partial outflow treatment."
 
 # Summary. An optional shortened abstract.
 summary: The paper presents the first validation study using multi-reservoir MFD based simulation on a real network using real OD data.
@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://www.frontiersin.org/articles/10.3389/ffutr.2020.604088/pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
