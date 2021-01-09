@@ -86,11 +86,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "3 Rue Maurice Audin", city = "Vaulx-en-Velin", region = "Auvergne-Rhône-Alpes", postcode = "69518", country = "France", country_code = "FR"}
+address = {street = "46 Allée d’Italie", city = "Lyon", region = "Auvergne-Rhône-Alpes", postcode = "69007", country = "France", country_code = "FR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "45.778810", longitude = "4.922382"}
+coordinates = {latitude = "45.728715", longitude = "4.827139"}
 
 # Directions for visitors to locate you.
 directions = ""
