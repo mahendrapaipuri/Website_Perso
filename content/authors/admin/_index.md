@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Post Doctoral Researcher
+role: Research Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Université Gustave Eiffel
-  url: "https://www.univ-gustave-eiffel.fr/"
+- name: INRIA
+  url: "https://www.inria.fr/fr"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational fluid dynamics, traffic flow modeling, data analysis.
+bio: My research interests include computational fluid dynamics, traffic flow modeling, data analysis, High performance computing.
 
 interests:
 - Numerical Methods
@@ -28,6 +28,7 @@ interests:
 - Hyperbolic Systems of Conservation Laws
 - Scientific Computing
 - Traffic Flow Theory
+- High Performance Computing
 - Data Analysis
 
 education:
@@ -75,4 +76,4 @@ email: "mahendra.paipuri@gmail.com"
 # - Visitors
 ---
 
-I am a Post Doctoral Researcher at Laboratoire Ingénierie Circulation Transports (LICIT) in Université Gustave Eiffel, Lyon.  My research is focused broadly on the numerical solution of partial differential equations with emphasis on **discontinuous Galerkin methods**, **high-order numerical schemes**, **hyperbolic conservation equations**, **traffic flow modeling**. Besides, I have been working on **data analysis** in my current position. I wrote my thesis at Departament of Civil Engineering, Architecture and Georesources (DECivil) at Instituto Superior Técnico in Lisbon and Laboratori de Càlcul Numèric (LaCaN) at the Universitat Politècnica de Catalunya in Barcelona.
+I am a Research Engineer in AVALON team at Laboratoire de l'Informatique du Parallélisme (LIP) in INRIA, Lyon working on SKA Telescope project.  My research is focused broadly on the numerical solution of partial differential equations with emphasis on **discontinuous Galerkin methods**, **high-order numerical schemes**, **hyperbolic conservation equations**, **traffic flow modeling**, **data analysis** and **high performance computing**. I wrote my thesis at Departament of Civil Engineering, Architecture and Georesources (DECivil) at Instituto Superior Técnico in Lisbon and Laboratori de Càlcul Numèric (LaCaN) at the Universitat Politècnica de Catalunya in Barcelona.
