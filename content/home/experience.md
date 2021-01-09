@@ -23,8 +23,17 @@ date_format = "Jan 2006"
   company_url = "https://www.univ-gustave-eiffel.fr/"
   location = "Lyon"
   date_start = "2017-11-01"
-  date_end = ""
+  date_end = "2020-12-31"
   description = """Part of the **ERC** project Multiscale and Multimodal Traffic Modelling Approach for Sustainable Management of Urban Mobility (MAGnUM). Primary resposnbility is to develop the multi-modal macroscopic traffic simulators based on Macroscopic Fundamental Diagram (MFD)."""
+
+[[experience]]
+  title = "Research Engineer"
+  company = "INRIA"
+  company_url = "https://www.inria.fr/fr"
+  location = "Lyon"
+  date_start = "2021-01-01"
+  date_end = ""
+  description = """Part of Square Kilometer Array (SKA) telescope project. Main activities include benchmarking the HPC codes that will be depolyed on the Science Data Processor (SDP) of SKA project."""
 
 [[experience]]
   title = "Doctoral Researcher"
