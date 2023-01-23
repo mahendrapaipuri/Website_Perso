@@ -32,8 +32,17 @@ date_format = "Jan 2006"
   company_url = "https://www.inria.fr/fr"
   location = "Lyon"
   date_start = "2021-01-01"
-  date_end = ""
+  date_end = "2021-12-31"
   description = """Part of Square Kilometer Array (SKA) telescope project. Main activities include benchmarking the HPC codes that will be depolyed on the Science Data Processor (SDP) of SKA project."""
+  
+[[experience]]
+  title = "Research Engineer"
+  company = "CNRS"
+  company_url = "http://www.idris.fr/"
+  location = "Orsay"
+  date_start = "2022-01-01"
+  date_end = ""
+  description = """Part of Systems team at IDRIS. Main activities include designing and implementing various solutions on the Jean Zay platform"""
 
 [[experience]]
   title = "Doctoral Researcher"
