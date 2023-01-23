@@ -14,21 +14,19 @@ role: Research Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: INRIA
-  url: "https://www.inria.fr/fr"
+- name: IDRIS CNRS
+  url: "[http://www.idris.fr/](http://www.idris.fr/)"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational fluid dynamics, traffic flow modeling, data analysis, High performance computing.
+bio: My research interests include systems architecture, cloud computing, High performance computing.
 
 interests:
-- Numerical Methods
-- Galerkin Approximations
-- High-order Schemes
-- Multi-physics Problems
-- Hyperbolic Systems of Conservation Laws
-- Scientific Computing
-- Traffic Flow Theory
+- Systems
+- Cloud Computing
 - High Performance Computing
+- Containerisation
+- Numerical Methods
+- Scientific Computing
 - Data Analysis
 
 education:
@@ -76,4 +74,4 @@ email: "mahendra.paipuri@gmail.com"
 # - Visitors
 ---
 
-I am a Research Engineer in AVALON team at Laboratoire de l'Informatique du Parallélisme (LIP) in INRIA, Lyon working on SKA Telescope project.  My research is focused broadly on the numerical solution of partial differential equations with emphasis on **discontinuous Galerkin methods**, **high-order numerical schemes**, **hyperbolic conservation equations**, **traffic flow modeling**, **data analysis** and **high performance computing**. I wrote my thesis at Departament of Civil Engineering, Architecture and Georesources (DECivil) at Instituto Superior Técnico in Lisbon and Laboratori de Càlcul Numèric (LaCaN) at the Universitat Politècnica de Catalunya in Barcelona.
+I am a Research Engineer in Systems team at IDRIS CNRS, Orsay. I wrote my thesis at Departament of Civil Engineering, Architecture and Georesources (DECivil) at Instituto Superior Técnico in Lisbon and Laboratori de Càlcul Numèric (LaCaN) at the Universitat Politècnica de Catalunya in Barcelona.
