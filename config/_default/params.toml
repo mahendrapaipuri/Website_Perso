@@ -86,11 +86,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "46 Allée d’Italie", city = "Lyon", region = "Auvergne-Rhône-Alpes", postcode = "69007", country = "France", country_code = "FR"}
+address = {street = "Batiment 506, Rue John Von Neumann", city = "Orsay", region = "Île-de-France", postcode = "91403", country = "France", country_code = "FR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "45.728715", longitude = "4.827139"}
+coordinates = {latitude = "48.7071906", longitude = "2.1753469"}
 
 # Directions for visitors to locate you.
 directions = ""
